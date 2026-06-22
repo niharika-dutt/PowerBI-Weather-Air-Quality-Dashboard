@@ -32,7 +32,7 @@ The dashboard provides a comprehensive view of current weather conditions, forec
 
 ## Dashboard Preview
 
-![Dashboard](WeatherDashboard.png)
+![Dashboard](./WeatherDashboard.png)
 
 ## Key Learnings
 
